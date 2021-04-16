@@ -1,5 +1,0 @@
-"# java-projekt1" 
-"# java-projekt1" 
-"\n Test" 
-"\n Test" 
-"Hello World!" 
